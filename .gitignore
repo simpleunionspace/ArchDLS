@@ -1,0 +1,48 @@
+### OS directories
+.Spotlight-V100
+.Trashes
+
+### OS files
+.DS_Store
+.DS_Store?
+Thumbs.db
+Desktop.ini
+
+### VCS directories
+
+
+### VCS files
+
+
+### IDE directories
+.vscode
+.idea
+
+### IDE files
+
+
+### TESTS directories
+
+
+### TESTS files
+
+
+### .NET directories
+
+
+### .NET files
+
+
+### Temp directories
+[Bb]in
+[Oo]bj
+[Tt]mp
+.logs
+
+### Temp files
+*.log
+
+### Full path
+/logs/*
+/tmp/*
+/bin/*
