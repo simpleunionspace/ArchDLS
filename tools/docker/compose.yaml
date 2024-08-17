@@ -1,0 +1,16 @@
+---
+
+services:
+
+  postgresql:
+    image: postgres
+
+  webapp:
+    build:
+      context: "."
+      dockerfile: "WebApp.Dockerfile"
+
+  scheduleapp:
+    build:
+      context: "."
+      dockerfile: "WebApp.Dockerfile"
